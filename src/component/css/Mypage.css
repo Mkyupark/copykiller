@@ -1,0 +1,48 @@
+/* .app-container {
+  margin: 10px auto;
+}
+
+.app-copy {
+  display: flex;
+}
+
+.youtube-playing {
+  width: 170%;
+}
+
+.youtube-urlbar {
+  background: #dedede;
+  border: none;
+  border-radius: 4px;
+  width: 169%;
+  height: 40px;
+  margin: 20px 0px;
+}
+
+.youtube-chart {
+  width: 30%;
+} */
+
+.youtube-container .img {
+  background: #dedede;
+  width: 350px;
+  height: 200px;
+  border-radius: 8px;
+}
+
+.result-container {
+  display: flex;
+  justify-content: center;
+  margin: 40px 120px;
+}
+
+.youtube-title {
+  margin-top: 20px;
+  text-align: center;
+  font-weight: 545;
+  font-size: 18px;
+}
+
+.percent-container {
+  width: 400px;
+}
